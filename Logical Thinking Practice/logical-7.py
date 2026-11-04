@@ -16,3 +16,4 @@ if sum == original:
     print("Armstrong Number")
 else:
     print("Not an Armstrong Number")
+    

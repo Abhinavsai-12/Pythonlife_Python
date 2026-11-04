@@ -14,3 +14,4 @@ for c in input_str:
 
 print(new_str)
 
+

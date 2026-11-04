@@ -2,18 +2,18 @@
 
 
 
-# num = int(input("Enter a number: "))
+num = int(input("Enter a number: "))
 
-# original = num
-# sum = 0
-# digits = len(str(num))
+original = num
+sum = 0
+digits = len(str(num))
 
-# while num > 0:
-#     digit = num % 10
-#     sum = sum * 10 + digit
-#     num = num // 10
+while num > 0:
+    digit = num % 10
+    sum = sum * 10 + digit
+    num = num // 10
 
-# print(sum)
+print(sum)
 
 
 

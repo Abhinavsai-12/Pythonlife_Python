@@ -47,3 +47,4 @@ if is_palindrome(string):
     print("Palindrome")
 else:
     print("Not a Palindrome")
+    

@@ -12,8 +12,7 @@
 
 
 
-numbers = list(map(int, input("Enter numbers: ").split()))
+# numbers = list(map(int, input("Enter numbers: ").split()))
 
-total = sum(numbers)
-
-print("Sum =", total)
+# total = sum(numbers)
+# print("Sum =", total)
