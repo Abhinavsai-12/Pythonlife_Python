@@ -1,6 +1,6 @@
 # String Permutations
 
-def get_permutation(string, i=3):
+def get_permutation(string, i=0):
     if i == len(string):
         print("".join(string))
         return
@@ -13,4 +13,4 @@ def get_permutation(string, i=3):
         get_permutation(words, i + 1)
 
 
-get_permutation("Abhi")
+get_permutation("Abc")

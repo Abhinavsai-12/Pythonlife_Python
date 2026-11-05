@@ -31,12 +31,12 @@
 
 
 
-# list1 = list(map(int, input("Enter first list: ").split()))
-# list2 = list(map(int, input("Enter second list: ").split()))
+list1 = list(map(int, input("Enter first list: ").split()))
+list2 = list(map(int, input("Enter second list: ").split()))
 
-# result = list(map(lambda a, b: a + b, list1, list2))
+result = list(map(lambda a, b: a + b, list1, list2))
 
-# print("Result:", result)
+print("Result:", result)
 
 
 
