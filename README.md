@@ -1,6 +1,6 @@
-# Python Practice
+# Python
 
-## About the Project
+## About this Repositories
 This repository contains Python practice programs, exercises, and tasks completed as part of the Python training program. It covers Python fundamentals, advanced concepts, data analysis libraries, and practical coding exercises.
 
 The repository is organized day-wise to make learning and practicing Python easier. It also includes logical thinking exercises, practice codes, and a Python mini project.
