@@ -3,6 +3,7 @@ def String_Test(s):
     upper_case = 0
     lower_case = 0
 
+
     for i in s:
         if i.isupper():
             upper_case +=1
@@ -16,4 +17,6 @@ def String_Test(s):
     print("Uppercase Letters:", upper_case)
     print("Lowercase Letters:", lower_case)
     
+
+
 String_Test("Hi, Can you give me a chance")
